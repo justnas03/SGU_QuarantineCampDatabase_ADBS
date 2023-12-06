@@ -9,3 +9,4 @@ HOW TO INSTALL
 5. Put files into "htdocs" folder in XAMPP installation location
 6. Type localhost/1csdlnangcao into your browser. 
 *Alert: Maybe your path of htdocs folder is different from mine. So localhost/<path-to-your-htdocs-to-1csdlnangcao>
+* PDF PRINTER MAYBE NOT WORKING DUE TO LACK OF 'dompdf' FOLDER
